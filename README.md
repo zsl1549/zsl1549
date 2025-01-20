@@ -9,11 +9,10 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-|   主&emsp;页   | <https://zsl1549.github.io>              |
-| :------------: | :------------------------------- |
-| **博&emsp;客** | **<https://zsl1549.github.io/>** |
-| **笔&emsp;记** | **<https://zsl1549.github.io/>** |
-|   **播放器**   | **<https://www.qishui.com/>**    |
+|   主&emsp;页   | <https://zsl1549.github.io/blogger>      |
+| :------------: | :--------------------------------------- |
+| **博&emsp;客** | **<https://zsl1549.github.io/blogger/>** |
+| **笔&emsp;记** | **<https://zsl1549.github.io/blogger/>** |
 
 **Languages:**
 
